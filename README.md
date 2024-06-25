@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100%" height="auto" />
+  <img src="[https://media.giphy.com/media/your-gif-id/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM5a2kycW1zNG54enU0Nnh3cnlvNHM5YzRxaXIxMTVhenkxZWNrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ogwFGEHrVxusDbDjO/giphy.webp)" width="100%" height="auto" />
 </div>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Quinton 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
@@ -15,16 +15,16 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a [Your Job Title] based in [Your Location]. I have a passion for [Your Interests] and love to create innovative solutions.
+I am a Helpdesk Technician based in Saint Louis, Mo. I have a passion for everything tech and love to create innovative solutions.
 
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [What You're Learning]
-- 👯 I'm looking to collaborate on [Type of Projects]
-- 🤔 I'm looking for help with [What You Need Help With]
+- 🔭 I'm currently working on My portfolip
+- 🌱 I'm currently learning how Identety services work
+- 👯 I'm looking to collaborate on an indie game
+- 🤔 I'm looking for help with making indie games
 - 💬 Ask me about [Topics You're Knowledgeable About]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 📫 How to reach me: QuintonTaylor29@gmail.com
+- 😄 Pronouns: He,Him
+- ⚡ Fun fact: I am shorter than Shaquille O'neal
 
 ### 🛠️ Languages and Tools:
 
@@ -37,14 +37,8 @@ I am a [Your Job Title] based in [Your Location]. I have a passion for [Your Int
 
 ### 📈 GitHub Stats:
 
-[[YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[[Quinton Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/que1027/github-readme-stats)
 
 
-### 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post Title](Your Blog Post URL)
-- [Another Blog Post Title](Another Blog Post URL)
-<!-- BLOG-POST-LIST:END -->
 
 ---
