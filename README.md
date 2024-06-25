@@ -21,7 +21,7 @@ I am a Helpdesk Technician based in Saint Louis, Mo. I have a passion for everyt
 - 🌱 I'm currently learning how Identety services work
 - 👯 I'm looking to collaborate on an indie game
 - 🤔 I'm looking for help with making indie games
-- 📫 How to reach me: QuintonTaylor29@gmail.com
+- 📫 How to reach me: My portfolio website
 - 😄 Pronouns: He,Him
 - ⚡ Fun fact: I am shorter than Shaquille O'neal
 
