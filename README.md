@@ -33,6 +33,7 @@ I am a Helpdesk Technician based in Saint Louis, Mo. I have a passion for everyt
 [React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 [Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 [MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+[Java](https://www.oracle.com/java/)
 <!-- Add or remove languages and tools as per your skills -->
 
 ### 📈 GitHub Stats:
