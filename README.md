@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/your-gif-id/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM5a2kycW1zNG54enU0Nnh3cnlvNHM5YzRxaXIxMTVhenkxZWNrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ogwFGEHrVxusDbDjO/giphy.webp)" width="100%" height="auto" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM5a2kycW1zNG54enU0Nnh3cnlvNHM5YzRxaXIxMTVhenkxZWNrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ogwFGEHrVxusDbDjO/giphy.webp" width="100%" height="auto" />
 </div>
 
 <h1 align="center">Hi there, I'm Quinton 👋</h1>
