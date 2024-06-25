@@ -37,7 +37,7 @@ I am a Helpdesk Technician based in Saint Louis, Mo. I have a passion for everyt
 
 ### 📈 GitHub Stats:
 
-[[Quinton Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/que1027/github-readme-stats)
+[![Quinton Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/que1027/github-readme-stats)
 
 
 
