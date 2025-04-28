@@ -18,6 +18,7 @@
 I am a Helpdesk Technician based in Saint Louis, Mo. I have a passion for everything tech and love to create innovative solutions.
 
 
+- I'm spending most of my time studying for the CompTia Securit+ exam
 - 🌱 I'm currently learning how Identety services work
 - 👯 I'm looking to collaborate on an indie game
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/quinton-taylor-1053b61ba/)
