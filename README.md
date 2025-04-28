@@ -17,11 +17,10 @@
 ### 👨‍💻 About Me:
 I am a Helpdesk Technician based in Saint Louis, Mo. I have a passion for everything tech and love to create innovative solutions.
 
-- 🔭 I'm currently working on My portfolip
+
 - 🌱 I'm currently learning how Identety services work
 - 👯 I'm looking to collaborate on an indie game
-- 🤔 I'm looking for help with making indie games
-- 📫 How to reach me: My portfolio website
+- 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/quinton-taylor-1053b61ba/)
 - 😄 Pronouns: He,Him
 - ⚡ Fun fact: I am shorter than Shaquille O'neal
 
